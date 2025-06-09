@@ -1,1 +1,1 @@
-2 raised to the power of 10 is 1024
+3 raised to the power of 10 is 1024
